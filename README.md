@@ -38,10 +38,13 @@ Microsoft Excel
 * Performance Tracking: Variance analysis for individual stores and across timeframes provides granular control over monitoring store-level profitability and sales performance.
 
 
-*Utilized Power Query & Power Pivot to extract and transform raw unstructured data into structured data in tabular form.
-*Generated Pivot tables to compile key sales data and reports.
-*Automated manual filter removal using macros and VBA.
-*Utilized advanced Excel functions such as IF, RELATED, SUMX, COUNTA, TEXTJOIN, and XLOOKUP to perform complex data analysis and generate actionable insights from sales data.
+* Utilized Power Query & Power Pivot to extract and transform raw unstructured data into structured data in tabular form.
+
+* Generated Pivot tables to compile key sales data and reports.
+
+* Automated manual filter removal using macros and VBA.
+
+* Utilized advanced Excel functions such as IF, RELATED, SUMX, COUNTA, TEXTJOIN, and XLOOKUP to perform complex data analysis and generate actionable insights from sales data.
 
 
 # Analyses derived from the dataset
