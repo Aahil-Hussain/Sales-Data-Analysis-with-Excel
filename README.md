@@ -31,6 +31,18 @@ This project demonstrates the creation of insightful dashboards using Microsoft 
 * The dataset is in CSV format, and it is cleaned and processed for analysis with the help of Microsoft Excel's built-in feature Power Query.
 
 
-# Tools Used
+# Tools and Techniques Used
 * Microsoft Excel: Utilized advanced Excel features such as pivot tables, charts, and formulas such as xlookup, sumx, etc to create interactive dashboards.
 * Data Visualization: Created visually engaging charts and tables to present data clearly and concisely, making it easier for stakeholders to understand trends and make decisions.
+* Performance Tracking: Variance analysis for individual stores and across timeframes provides granular control over monitoring store-level profitability and sales performance.
+
+# Analyses derived from the dataset
+![Alt text for your image](relative-path-to-your-image)
+![Alt text for your image](relative-path-to-your-image)
+![Alt text for your image](relative-path-to-your-image)
+
+
+Key Takeaways
+Gained experience in using Excel for data analysis, reporting, and dashboard creation.
+Demonstrated the ability to transform raw data into actionable insights through visual analytics.
+Improved decision-making processes for businesses by identifying trends, patterns, and outliers across various metrics.
