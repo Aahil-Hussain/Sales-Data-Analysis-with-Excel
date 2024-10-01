@@ -38,7 +38,7 @@ This project demonstrates the creation of insightful dashboards using Microsoft 
 
 # Analyses derived from the dataset
 ![Alt text for your image](https://github.com/Aahil-Hussain/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard-1.png)
-![Alt text for your image](relative-path-to-your-image)
+![Alt text for your image](https://github.com/Aahil-Hussain/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard-2.png)
 ![Alt text for your image](relative-path-to-your-image)
 
 
