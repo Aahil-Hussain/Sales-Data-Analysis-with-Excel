@@ -24,3 +24,13 @@ This project demonstrates the creation of insightful dashboards using Microsoft 
 * Weekday/Weekend Revenue Analysis: Compares revenue generated on weekdays versus weekends to help with staffing decisions and operational planning.
 
 * Monthly Revenue vs Target: Tracks monthly revenue against predefined goals, which is fundamental for short-term financial planning and making necessary adjustments to improve performance.
+
+
+
+# Dataset Used
+* The dataset is in CSV format, and it is cleaned and processed for analysis with the help of Microsoft Excel's built-in feature Power Query.
+
+
+# Tools Used
+* Microsoft Excel: Utilized advanced Excel features such as pivot tables, charts, and formulas such as xlookup, sumx, etc to create interactive dashboards.
+* Data Visualization: Created visually engaging charts and tables to present data clearly and concisely, making it easier for stakeholders to understand trends and make decisions.
